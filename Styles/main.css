@@ -1,0 +1,28 @@
+.main {
+  color: tan;
+}
+
+.main h1 {
+  background: #ddd;
+}
+
+.main h2 {
+  background: #964B00;
+}
+
+.main h3 {
+  background: #964B00;
+}
+
+.minor {
+  background: silver;
+}
+
+.minor h1 {
+  text-decoration: underline;
+}
+
+.minor h2 {
+  text-decoration: line-through;
+}
+/*# sourceMappingURL=main.css.map */
